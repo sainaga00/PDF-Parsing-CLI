@@ -1,0 +1,6 @@
+openai
+PyMuPDF
+pdfminer.six
+PyPDF2
+pdf2image
+pytesseract

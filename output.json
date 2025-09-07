@@ -1,0 +1,71 @@
+{
+  "title": "NON-DISCLOSURE AGREEMENT",
+  "contract_type": "Agreement",
+  "effective_date": "2024-01-05",
+  "sections": [
+    {
+      "title": "DEFINITIONS",
+      "number": "1",
+      "clauses": [
+        {
+          "text": "\"Confidential Information\" means any non-public information disclosed by Discloser to Recipient.",
+          "label": "a",
+          "index": 0
+        },
+        {
+          "text": "\"Purpose\" means evaluation of a potential business transaction.",
+          "label": "b",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "title": "CONFIDENTIALITY",
+      "number": "2",
+      "clauses": [
+        {
+          "text": "Recipient shall keep Confidential Information strictly confidential and use it only for the Purpose.",
+          "label": "a",
+          "index": 0
+        },
+        {
+          "text": "Recipient shall not disclose Confidential Information to any third party, except as permitted in this Agreement.",
+          "label": "b",
+          "index": 1
+        },
+        {
+          "text": "The obligations herein survive for three (3) years from the Effective Date.",
+          "label": "c",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "title": "EXCLUSIONS",
+      "number": "3",
+      "clauses": [
+        {
+          "text": "Information that is public without breach is not Confidential Information.",
+          "label": "a",
+          "index": 0
+        },
+        {
+          "text": "Information independently developed by Recipient is not Confidential Information.",
+          "label": "b",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "title": "GOVERNING LAW",
+      "number": "4",
+      "clauses": [
+        {
+          "text": "This Agreement is governed by the laws of the State of New York.",
+          "label": "",
+          "index": 0
+        }
+      ]
+    }
+  ]
+}
